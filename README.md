@@ -50,6 +50,12 @@ Lottie is a mobile library for Android and iOS that parses [Adobe After Effects]
 * Lottie for Svelte by [LottieFiles](https://github.com/LottieFiles/svelte-lottie-player)
 * Lottie for VueJS by [chenqingspring](https://github.com/chenqingspring/vue-lottie)
 * Lottie for Angular by [chenqingspring](https://github.com/chenqingspring/ng-lottie)
+* dotLottie for Web by [LottieFiles](https://github.com/LottieFiles/dotlottie-web)
+* dotLottie for React by [LottieFiles](https://www.npmjs.com/package/@lottiefiles/dotlottie-react)
+* dotLottie for Vue by [LottieFiles](https://www.npmjs.com/package/@lottiefiles/dotlottie-vue)
+* dotLottie for Svelte by [LottieFiles](https://www.npmjs.com/package/@lottiefiles/dotlottie-svelte)
+* dotLottie for Solid by [LottieFiles](https://www.npmjs.com/package/@lottiefiles/dotlottie-solid)
+* dotLottie Web Component by [LottieFiles](https://www.npmjs.com/package/@lottiefiles/dotlottie-wc)
 
 #### Android
 
@@ -59,10 +65,14 @@ Lottie is a mobile library for Android and iOS that parses [Adobe After Effects]
 * [NativeScript bindings](https://github.com/bradmartin/nativescript-lottie)
 * [Appcelerator Titanium bindings](https://github.com/m1ga/ti.animation)
 * Fluttie - Lottie for Flutter [View](https://github.com/simolus3/fluttie)
+* dotLottie for Android by [LottieFiles](https://github.com/LottieFiles/dotlottie-android)
+* dotLottie for React Native by [LottieFiles](https://github.com/LottieFiles/dotlottie-react-native)
+* dotLottie for Flutter by [LottieFiles](https://github.com/LottieFiles/dotlottie-flutter)
 
 #### iOS
 * Lottie for iOS [Official](https://github.com/airbnb/lottie-ios)
 * Lottie for React Native [Official](https://github.com/airbnb/lottie-react-native)
+* dotLottie for iOS by [LottieFiles](https://github.com/LottieFiles/dotlottie-ios)
 
 #### Desktop
 * Lottie for Windows [View](https://github.com/windows-toolkit/Lottie-Windows)
@@ -73,6 +83,8 @@ Lottie is a mobile library for Android and iOS that parses [Adobe After Effects]
 * rLottie by @Samsung [View](https://github.com/Samsung/rlottie)
 * QT [View](https://www.qt.io/blog/2019/03/08/announcing-qtlottie)
 * Skottie - Lottie Animation Player [View](https://skia.org/user/modules/skottie)
+* dotLottie Rust by [LottieFiles](https://github.com/LottieFiles/dotlottie-rs)
+* ThorVG [View](https://github.com/thorvg/thorvg)
 
 ## Tools
 * Lottie Interactivity Library - [View](https://lottiefiles.com/interactivity)
